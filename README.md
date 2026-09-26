@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/gnddJB_ootQAAAAC/alpha-lucia.gif" alt="Alpha Inverse Crown" width="600"/>
+</p>
+
 <!--
 **zyoozhanghao/zyoozhanghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
