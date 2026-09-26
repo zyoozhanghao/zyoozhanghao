@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/gnddJB_ootQAAAAC/alpha-lucia.gif" alt="Alpha Inverse Crown" width="600" style="border-radius: 10px;"/>
+  <img src="https://media1.tenor.com/m/ER2zcNyNAAMAAAAC/alpha-pgr.gif" alt="Alpha PGR" width="600" style="border-radius: 10px;"/>
 </p>
 
 ---
