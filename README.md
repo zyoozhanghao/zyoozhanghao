@@ -1,20 +1,14 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E83434&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+zyoozhanghao;Welcome+to+my+profile!;" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/gnddJB_ootQAAAAC/alpha-lucia.gif" alt="Alpha Inverse Crown" width="600"/>
+  <img src="https://media1.tenor.com/m/gnddJB_ootQAAAAC/alpha-lucia.gif" alt="Alpha Inverse Crown" width="600" style="border-radius: 10px;"/>
 </p>
 
-<!--
-**zyoozhanghao/zyoozhanghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🗡️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+> "Ascendant/Commanding presence in the digital realm."
