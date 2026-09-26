@@ -36,10 +36,10 @@
       <a href="https://github.com/zyoozhanghao">
         <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=DC2626&border=DC2626" alt="GitHub" />
       </a><br><br>
-      <a href="mailto:your.email@example.com">
+      <a href="mailto:arzhio.bidjaksaputra@gmail.com">
         <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=DC2626&border=DC2626" alt="Email" />
       </a><br><br>
-      <a href="https://instagram.com/your_instagram">
+      <a href="https://www.instagram.com/zyoozhanghao/">
         <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=DC2626&border=DC2626" alt="Instagram" />
       </a><br><br>
       <img src="https://komarev.com/ghpvc/?username=zyoozhanghao&label=Profile+Views&color=DC2626&style=for-the-badge" alt="Profile Views" />
