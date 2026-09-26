@@ -11,4 +11,4 @@
 ### 🗡️ About Me
 
 ```text
-> "Ascendant/Commanding presence in the digital realm."
+> "Junior Web Developer."
