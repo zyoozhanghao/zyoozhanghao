@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/ER2zcNyNAAMAAAAC/alpha-pgr.gif" alt="Alpha PGR" width="600" style="border-radius: 10px;"/>
+  <img src="alpha-crimson-weave.gif" alt="Alpha Crimson Weave" width="600"/>
 </p>
 
 ---
